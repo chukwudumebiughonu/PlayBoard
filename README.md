@@ -1,20 +1,22 @@
 # About the  Project
 
 <p>
-  TaskPad is a powerful yet user-friendly task management app built for teams and individuals who value clarity, structure, and visual appeal. It helps you streamline your workflow, stay focused on high-priority tasks, and collaborate effectively with others.
+ PlayBoard:A canvas to create, brainstorm, and connect seamlessly with PlayBoard, a dynamic real-time whiteboard built for vibrant collaboration.
 </p>
 
-👉 Live Demo: [Live Demo](https://taskpad-beta.vercel.app)
+👉 Live Demo: [Live Demo](https://playboard-beige.vercel.app)
 
 ## Key Features:
 
-* **Seamless Collaboration**: Create workspaces (organizations) to invite teammates, manage roles, and work together on shared goals.
-* __Structured Organization__: Visualize your projects with customizable boards, lists, and cards. Leverage drag-and-drop functionality for effortless task organization and prioritization.
-* **Enhanced Task Clarity**: Add detailed descriptions, track activity logs, and utilize beautiful Unsplash cover images to set the tone for each board.
-* __Transparency and Accountability__: Access a comprehensive activity log for your entire organization to stay informed and responsible.
-* **Flexible Growth**: Choose between free and paid plans. The free plan allows for a limited number of boards, while paid subscriptions offer unlimited boards and additional features to scale with your needs.
-* **Modern, Intuitive Design**: Enjoy a beautiful user interface built with shadenUI and TailwindCSS, combining elegance with ease of use.
-* **Robust Foundation**: Tasp is powered by a secure MySQL database and leverages Prisma ORM for efficient data management.
+* **Unleash Your Creativity**: Craft your whiteboard from scratch with boundless possibilities. Add diverse shapes (rectangles, ellipses, etc.), sticky notes, and freehand drawings using the intuitive toolbar.
+* **Layer Your Ideas**: Organize your whiteboard content effortlessly using layering functionality. Prioritize elements, create depth, and maintain structure for clear communication.
+* **Express Yourself in Color**: Choose from a vibrant palette to customize your whiteboard elements and make your ideas stand out.
+* **Refine and Iterate**: Easily undo and redo changes to explore possibilities and find the perfect solution. Master your workflow with convenient keyboard shortcuts.
+* **Work Together in Real-Time**: Collaborate seamlessly with fellow players. See others' edits instantly and work towards shared goals as if side-by-side.
+* **Never Lose an Idea**: Every stroke and modification are automatically saved on a real-time database. Rest assured that your creativity endures.
+* **Control and Organization**: Securely manage access through authentication, organize teammates into groups, and extend collaboration invitations.
+* **Mark the Moments**: Favorite key whiteboard states for effortless reference and discussion.
+* **Modern Tech Stack**: Leverage the power of Next.js 14, TailwindCSS, and ShadcnUI for a performant, visually appealing, and developer-friendly experience.
 
 ## Tools and Technonlogy
 * **TypeScript**
@@ -22,10 +24,10 @@
 * **React.js**
 * **ShadcnUI**
 * **TailwindCSS**
-* **Prisma**
-* **MySQL**
+* **Convex:** [Convex](https://convex.dev/c/cwa)
+* **Liveblocks**: [Liveblocks](https://liveblocks.io/)
 * **Stripe**
-* **Clerk** for authentication
+* **Clerk**: [Clerk](https://dub.sh/mz7fwfW)
   
 Screenshots of the Project 📸
 
