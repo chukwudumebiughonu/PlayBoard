@@ -512,4 +512,4 @@ export const Canvas = ({
       </svg>
     </main>
   );
-};
+}; 
