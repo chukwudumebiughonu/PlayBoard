@@ -3,7 +3,7 @@
 ## Overview
 PlayBoard is a dynamic, real-time whiteboard application designed to foster creativity and collaboration. It provides a canvas where users can create, brainstorm, and connect seamlessly, making it an ideal tool for teams and individuals looking to enhance their brainstorming sessions and project planning.
 
-👉 Live Demo: [Live Demo](https://playboard-beige.vercel.app)
+👉 Live Demo: [Live Demo](https://playboardd.vercel.app/)
 
 ## Key Features:
 * **Unleash Your Creativity**: Craft your whiteboard from scratch with boundless possibilities. Add diverse shapes (rectangles, ellipses, etc.), sticky notes, and freehand drawings using the intuitive toolbar.
